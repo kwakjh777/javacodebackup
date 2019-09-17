@@ -1,0 +1,17 @@
+package firstproject;
+import java.util.Scanner;
+public class twoday2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner a = new Scanner(System.in);
+		
+		int i = a.nextInt();
+		int j = a.nextInt();
+		
+		System.out.println("당신의 입력한 값의 10을 더하면 "+(i+10)+"입니다.");
+		System.out.println("당신의 입력한 값은 "+j+"입니다");
+		
+	}
+
+}

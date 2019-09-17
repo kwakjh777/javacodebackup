@@ -1,0 +1,14 @@
+package firstproject;
+
+public class project {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int myage = 20;
+		int tenyearslater = 10;
+		int addage = myage+tenyearslater;
+		System.out.println("저의 현재 나이는 "+myage+"이고 10년 뒤 제 나이는"+addage+"살 입니다.");
+		
+	}
+
+}

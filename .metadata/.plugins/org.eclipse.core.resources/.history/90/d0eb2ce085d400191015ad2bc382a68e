@@ -1,0 +1,17 @@
+package firstproject;
+
+public class project {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name = "곽재홍";
+		int a = 23;
+		int b = 23+10;
+		
+		
+
+		System.out.println("저의 나이는"+a+"이고 이름은 "+name+"입니다 10년 후의 나이는 "+b+"입니다.");
+	System.out.println("우혁이형이 죽인대요");
+	}
+
+}
